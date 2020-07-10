@@ -7,7 +7,7 @@ Created an IPSec based Virtual Private Network (VPN) for a company to connect wi
 <ul>
   <li>Type of VPN: IPsec tunnel
   <li>Tunnel policy: Internet Security Association and Key Management Protocol (ISAKMP-IKEv2) 
-  <li>Failover Plan: EtherChannel and Port-Channel
+  <li>Failover plan: EtherChannel and Port-Channel
   <li>Packet filter: Extended Access-List 
   <li>IP addressing scheme: Internet Protocol Version 4 (IPv4)
 </ul>
@@ -17,9 +17,9 @@ Implemented a simple network scenario of Port Address Translation (PAT) with Acc
 
 <h4>Configuration includes:</h4>
 <ul>
-  <li>Translation technology: PAT
+  <li>IP translation method: PAT
   <li>Packet filter: Standard Access-List 
   <li>IP addressing scheme: IPv4
-  <li>Routing Protocol: Routing Information Protocol (RIPv2) 
+  <li>Routing protocol: Routing Information Protocol (RIPv2) 
   <li>Other: Dynamic Host Configuration Protocol (i.e. DHCP)
 </ul>
