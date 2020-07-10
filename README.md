@@ -1,3 +1,11 @@
-# Samples of my work
+# Computer Network Projects
 
-During my studies for Bachelor of Networking and CCNA, I have practices several Networking design, implementation and troubleshooting concepts in Packet Tracer. Here I have attached some samples showcasing my acadeic and professional understanding in the Computer Networking World.
+<h2>Project 1 - IPsec VPN</h2>
+Created an IPSec based Virtual Private Network (VPN) for company to connect with their partner's network securely. The data transmited is authenticated and encrypted over the Internet so the Confidentiality, Integrety and Availability can be achived.
+
+<h4>Configuration includes:</h4>
+<ul>
+  <li>Type of VPN: IPsec tunnel
+  <li>Tunnel policy: Internet Security Association and Key Management Protocol (ISAKMP-IKEv2) 
+  <li>Redundacy Policy: EtherChannel and multiple WAN link
+  <li>IP addressing scheme: Internet Protocol Version 4 (IPv4)
