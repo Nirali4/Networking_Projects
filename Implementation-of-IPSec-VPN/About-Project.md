@@ -5,9 +5,9 @@ Virtual Private Network (VPN) is a secure logical network that a company or user
 Internet is loaded with unauthorized users trying to break down your company's security and pushing data over such an unsecured network without a VPN or personal leased line would be questionable once the security threat occurs. VPNs have different flavors available for you, so you can find the best solution and implement it into your network for end-to-end security. 
 
 <h3>Project Scenario:</h3>
-MyCo organisation requires establishing a VPN between a host in its parts division and a host in the manufacturing department of one of their business partners, TheirCo. They only want to create a VPN between System-A and System-C (refer to the figure), so that no other devices from both networks will be connecting except these two.
+MyCo organisation requires establishing a VPN between a host in its parts division and a host in the manufacturing department of one of their business partners, TheirCo. They only want to create a VPN between System-A and System-C (refer to the figure), so that no other devices from both networks will be connecting except these two.<br>
 
-<img src="Images/IPsec-VPN-full-Solution-image.JPG">
+<img src="master/Images/download.png"></img>
 
 <h3>Solution:</h3>
 1) IPsec VPN and ISAKMP policies were created between two routers with Pre-shared Key authentication and encryption (AES 256).<br>
