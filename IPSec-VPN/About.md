@@ -1,4 +1,4 @@
-# About IPsec-VPN Project
+# IPsec VPN Project
 
 Virtual Private Network (VPN) is a secure logical network that a company or user required while confidential data need to be transmitted securely from one device to another over the Internet.
 
