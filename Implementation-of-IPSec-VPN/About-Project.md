@@ -7,7 +7,7 @@ Internet is loaded with unauthorized users trying to break down your company's s
 <h3>Project Scenario:</h3>
 MyCo organisation requires establishing a VPN between a host in its parts division and a host in the manufacturing department of one of their business partners, TheirCo. They only want to create a VPN between System-A and System-C (refer to the figure), so that no other devices from both networks will be connecting except these two.<br>
 
-<img src="Images/IPsec-VPN-full-Solution-image.JPG"></img>
+<img src="Images/IPsec-VPN-solution.png" width="90%"></img>
 
 <h3>Solution:</h3>
 1) IPsec VPN and ISAKMP policies were created between two routers with Pre-shared Key authentication and encryption (AES 256).<br>
