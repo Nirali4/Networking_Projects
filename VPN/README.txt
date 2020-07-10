@@ -1,4 +1,4 @@
-VPN means a Virtual Private Network is a secure logical network that a company or user required when confidential data need to be transmitted securely from one device to another device over the Internet. 
+Virtual Private Network (VPN) is a secure logical network that a company or user required while confidential data need to be transmitted securely from one device to another over the Internet.
 
 Internet is loaded with unauthorized users trying to break down your company's security and pushing data over such an unsecured network without a VPN or personal leased line would be questionable once the security threat occurs. VPNs have different flavors available for you, so you can find the best solution and implement it into your network for end-to-end security. 
 
