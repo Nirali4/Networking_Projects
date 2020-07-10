@@ -7,7 +7,7 @@ Created an IPSec based Virtual Private Network (VPN) for a company to connect wi
 <ul>
   <li>Type of VPN: IPsec tunnel
   <li>Tunnel policy: Internet Security Association and Key Management Protocol (ISAKMP-IKEv2) 
-  <li>Failover plan: Port-Channel
+  <li>Failover plan: Port-Channel and Double-Homed Single ISP (WAN topology) 
   <li>Packet filter: Extended Access-List 
   <li>IP addressing scheme: Internet Protocol Version 4 (IPv4)
 </ul>
