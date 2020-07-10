@@ -16,7 +16,7 @@ MyCo organisation requires establishing a VPN between a host in its parts divisi
 3) Port-Channel had been between Router-to-Switch. for high-speed and redundancy.<br>
 4) Two Serial links have been used to connect with ISP. This will allow high-availability and if one goes down them the other link will be up. To enable this feature, the Administrative Distance of the route of the back-up link was increased.<br>
 
-<h3>Requiremnet to Run the Project</h3>
+<h3>Requirements to Run the Project:</h3>
 Before you downloading the <a href="https://github.com/Nirali4/Networking_Projects/blob/master/IPSec-VPN/IPsec-VPN-project.pkt">"IPsec-VPN-project.pkt"</a> file, you will require to have Cisco Packet Tracer (Version 7.3 or higher) to run the Project. 
 
 Please note that version lower than 7.3 may not support all the configuration used in this project.  
