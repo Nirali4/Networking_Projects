@@ -8,7 +8,7 @@ Internet is loaded with unauthorized users trying to break down your company's s
 MyCo organisation requires establishing a VPN between a host in its parts division and a host in the manufacturing department of one of their business partners, TheirCo. They only want to create a VPN between System-A and System-C (refer to the figure), so that no other devices from both networks will be connecting except these two.
 
 <h3>Solution:</h3>
-1) IPsec VPN and ISAKMP policies were created between two routers with Pre-shared Key authentication and encryption (AES 256).
-2) Access-list created to filter the traffic, so only System-A and System-C can connect between these two networks.
-3) EtherChannel had been between Router-to-Switch. for high-speed and redundancy
-4) Two Serial links have been used to connect with ISP. This will allow high-availability and if one goes down them the other link will be up. To enable this feature, the Administrative Distance of the route of the back-up link was increased.
+1) IPsec VPN and ISAKMP policies were created between two routers with Pre-shared Key authentication and encryption (AES 256).<br>
+2) Access-list created to filter the traffic, so only System-A and System-C can connect between these two networks.<br>
+3) EtherChannel had been between Router-to-Switch. for high-speed and redundancy.<br>
+4) Two Serial links have been used to connect with ISP. This will allow high-availability and if one goes down them the other link will be up. To enable this feature, the Administrative Distance of the route of the back-up link was increased.<br>
