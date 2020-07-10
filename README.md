@@ -10,3 +10,6 @@ Created an IPSec based Virtual Private Network (VPN) for a company to connect wi
   <li>Failover Plan: EtherChannel and Port-Channel
   <li>IP addressing scheme: Internet Protocol Version 4 (IPv4)
 </ul>
+
+<h2>Project 2 - <a href="https://github.com/Nirali4/Networking_Projects/tree/master/Network-Port-Address-Transition">Port Address Transition</a></h2>
+Created a simple network scenario of an implementation of Port Address Transition (PAT) and Access-List (ACL) which will allow to translate the privat IP address into a public IP address and will be using different port numbers instead of specific IP address. This will help company to save money as least or none extra IP address needed to be leased by the company from ISPs. 
