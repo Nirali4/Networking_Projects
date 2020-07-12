@@ -6,5 +6,7 @@ As the aount of network devices are constalntly, the demand for the IP addresses
 <h3>Project scenario:</h3>
 Simple network scenario is created to demonstrate how PAT can be implemented on network. This project also concentrated on feature like Dynamic Host Configuration (DHCP) and Access control Lists (ACLs). The DHCP will allow us to automatically provide the IP addresses to the network devices and ACL will make sure that only authorised network/users are accessing the company's network. Simpley, ACLs are type of filteration occuring whenever any packet leaves/enter the private network. 
 
+<img src="Images/Port-Address-Translation.JPG">
+
 <h3>Requirements to run the project:</h3>
-Before you downloading the <a href="https://github.com/Nirali4/Networking_Projects/blob/master/Network-Port-Address-Translation/Network-Port-Address-Translation.pkt">"Network-Port-Address-Translation.pkt"</a>file, you will require to have Cisco Packet Tracer (Version 7.3 or higher) to run the Project.
+Before you downloading the <a href="https://github.com/Nirali4/Networking_Projects/blob/master/Network-Port-Address-Translation/Network-Port-Address-Translation.pkt">"Network-Port-Address-Translation.pkt"</a> file, you will require to have Cisco Packet Tracer (Version 7.3 or higher) to run the Project.
