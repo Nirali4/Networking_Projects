@@ -1,12 +1,10 @@
 # Configuration examples
 
-<h3>Image 1 : <a href="">Crypto Map</a> </h3>
+<h3>Image 1 : <a href="https://github.com/Nirali4/Networking_Projects/blob/master/Network-Port-Address-Translation/Images/Port-Address-Translation.JPG">Network-Scenario</a> </h3>
+The PAT is implemented on the Company-A's router.
 
+<h3>Image 2 : <a href="https://github.com/Nirali4/Networking_Projects/blob/master/Network-Port-Address-Translation/Images/DHCP-Verify.JPG">DHCP Verify</a></h3> 
+DHCP will allow to automatically assign IP addresses.
 
-<h3>Image 2 : <a href="">Port Channel</a></h3> 
+<h3>Image 3 : <a href="https://github.com/Nirali4/Networking_Projects/blob/master/Network-Port-Address-Translation/Images/ACL-PAT-RIP_configured.JPG">ACL-PAT-RIP_configuration</a></h3>
 
-
-<h3>Image 3 : <a href="">IP address</a></h3>
-
-
-<h3>Image 4 : <a href="">IPsec VPN Solution</a></h3>
